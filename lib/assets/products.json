@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Седан", 
+        "imageUrl": "lib/assets/images/9305.jpeg",
+        "description": "Описание седана: удобный и экономичный."
+        ,"price": 800,
+        
+        "IsLiked": false
+      },
+      {
+        "name": "Легковушка",
+        "imageUrl": "lib/assets/images/AQABFIKIRoaubfEbmb1FGDAx8LGNuk1__VwP0inp0eWTRly1omM3B7Z3Mn2sJE8VW6nzFPdNM_9vgdM9qxZBbgK20mw.jpg",
+        "description": "Описание легковушки: идеальна для города.","price": 800,
+        
+        "IsLiked": false
+      },
+      {
+        "name": "Легковушка 2",
+        "imageUrl": "lib/assets/images/cb408c9a3850ffade17fdd8c137f0f865374ddf8.webp",
+        "description": "Описание легковушки 2: комфорт и стиль.","price": 800,
+        
+        "IsLiked": false
+      },
+      {
+        "name": "Внедорожник",
+        "imageUrl": "lib/assets/images/deb4d2f2ivh8n47mksvhbj3sslpbqlk9.jpg",
+        "description": "Описание внедорожника: для сложных условий.","price": 800,
+        
+        "IsLiked": false
+      },
+      {
+        "name": "Спорткар",
+        "imageUrl": "lib/assets/images/samye-dorogie-avtomobili_shut.jpg",
+        "description": "Описание спорткара: скорость и мощь.","price": 800,
+        
+        "IsLiked": false
+      }
+]
